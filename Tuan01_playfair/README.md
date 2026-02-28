@@ -1,7 +1,10 @@
-# Đề bài: Cài đặt thuật toán playfair (C/C++, python) và chạy kiểm thử bằng ví dụ cho trong buổi học 
+# Bài tập tuần 1 - Thuật toán Playfair
+
+## Đề bài
+Cài đặt thuật toán Playfair (C/C++, Python) và chạy kiểm thử bằng ví dụ cho trong buổi học.
 Đính kèm project link Git trong bài nộp 
 
-## Từ khóa: keyword
+## Từ khóa (Keyword)
 MONARCHY
 
 ## Bản rõ (Plaintext)
